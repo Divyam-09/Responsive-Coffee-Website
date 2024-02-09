@@ -283,7 +283,7 @@ about section */
 .menu .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-  gap: 4rem;
+  gap: 6rem;
 }
 
 .menu .box-container .box {
